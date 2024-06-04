@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+  height: 2000px;
+  margin: 0 auto;
+  background: #202020;
+}
+
+.header {
+  height: 80px;
+  background: #323232B2;
+}
+
+/*# sourceMappingURL=style.css.map */
